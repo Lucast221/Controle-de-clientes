@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\07a - 1\atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\lucas\Desktop\07a - 1\atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\lucas\Desktop\07a - 1\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\lucas\Desktop\07a - 1\atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\lucas\Desktop\07a - 1\atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\lucas\Desktop\07a - 1\atividade\obj\Debug\net7.0\ref\Atividade.dll
