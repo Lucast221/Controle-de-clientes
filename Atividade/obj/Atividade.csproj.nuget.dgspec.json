@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\07a - 1\\atividade\\Atividade.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\07a - 1\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\07a - 1\\atividade\\Atividade.csproj": {
+    "C:\\Users\\lucas\\Desktop\\07a - 1\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\07a - 1\\atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\07a - 1\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\07a - 1\\atividade\\Atividade.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\07a - 1\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\07a - 1\\atividade\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\07a - 1\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
